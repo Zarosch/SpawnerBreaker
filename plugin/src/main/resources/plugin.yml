@@ -1,0 +1,5 @@
+name: SpawnerBreaker
+version: 1.0
+author: Kevin Velz
+main: me.velz.spawnerbreaker.SpawnerBreaker
+api-version: 1.13
